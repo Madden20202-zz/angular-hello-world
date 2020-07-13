@@ -10,7 +10,7 @@ export class UserListComponent implements OnInit {
   names: string[];
 
   constructor() { 
-    this.names = ['Ari', 'Sammy', 'James', 'Erik'];
+    this.names = ['Arhi', 'Sammy', 'James', 'Erik'];
   }
 
   ngOnInit(): void {
